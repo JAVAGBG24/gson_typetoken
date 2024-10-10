@@ -12,6 +12,7 @@ public class UserManager {
     private Map<String, User> userlist;
     private  String fileName = "src/main/user.json";
     Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    // setPrettyPrinting spara data i json filen snyggt :)
 
     public UserManager() {
     }
