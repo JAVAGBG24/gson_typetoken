@@ -1,0 +1,22 @@
+{
+  "Helena": {
+    "id": 1,
+    "username": "Helena"
+  },
+  "Doris": {
+    "id": 2,
+    "username": "Doris"
+  },
+  "Tore": {
+    "id": 3,
+    "username": "Tore"
+  },
+  "Janne": {
+    "id": 4,
+    "username": "Janne"
+  },
+  "NisseJanne": {
+    "id": 5,
+    "username": "NisseJanne"
+  }
+}
